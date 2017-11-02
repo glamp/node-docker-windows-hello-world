@@ -1,0 +1,14 @@
+{
+  "name": "windows-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world node.js app w/ Docker & Windows.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Greg Lamp <lamp.greg@gmail.com>",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
